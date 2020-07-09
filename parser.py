@@ -8,8 +8,8 @@ import os
 
 keyboard = Controller()
 
-username = "va648314@gmail.com"
-password = "stmmsp3214"
+username = "<insert email here>"
+password = "<insert password here>"
 
 imap = imaplib.IMAP4_SSL("imap.gmail.com")
 
